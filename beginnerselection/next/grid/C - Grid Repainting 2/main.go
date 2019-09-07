@@ -1,5 +1,8 @@
 package main
 
+/*
+コピペだとうまくいくがrundingではこける
+*/
 import (
 	"bufio"
 	"fmt"
